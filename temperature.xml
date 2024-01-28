@@ -1,0 +1,22 @@
+<?xml-stylesheet type="text/xsl" href="temperature.xsl">
+<?xml version="1.0" encoding="UTF-8"?>
+<temeprature>
+  <home>
+    <registred>
+      <time>18:00</time>
+      <quantity>19.5</quantity>
+    </registred>
+    <registred>
+      <time>19:00</time>
+      <quantity>19.3</quantity>
+    </registred>
+    <registred>
+      <time>20:00</time>
+      <quantity>19.1</quantity>
+    </registred>
+    <registred>
+      <time>21:00</time>
+      <quantity>18.5</quantity>
+    </registred>
+  </home>
+</temeprature>
